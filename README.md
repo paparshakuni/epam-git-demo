@@ -1,2 +1,2 @@
-# epam-git-demo
+# EPAM git demo
 A demo repo for epam devops school
