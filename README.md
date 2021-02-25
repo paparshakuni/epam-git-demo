@@ -1,2 +1,2 @@
-# EPAM git demo
-A demo repo for epam devops school
+# EPAM git demo repo for devops school
+A demo repo for a cool devops school
